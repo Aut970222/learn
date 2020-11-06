@@ -17,7 +17,7 @@ import useFetchData from '../../hooks/useFetchData';
 
 const url = '/information/api/v2/articles.json';
 
-// 加载更多初始值哈哈
+// 加载更多初始值
 const loadMore = {
   currentPage: 1,
   lastPage: false,
